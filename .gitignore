@@ -1,0 +1,31 @@
+# Scala
+*.class
+*.log
+*.cache
+*.classpath
+*.project
+*.settings/
+.idea/
+*.iml
+out/
+target/
+
+# VS Code
+.vscode/
+
+# Mac/Linux
+.DS_Store
+*.swp
+*~
+
+# sbt
+lib_managed/
+src_managed/
+target/
+project/target/
+project/project/
+
+# Metals
+.metals/
+.bloop/
+.worksheet/

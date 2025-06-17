@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/home/diogo/.local/share/coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/home/diogo/docs/academico/2025/teaching/q2/mccc015-23-prog-func/notas-aula/code/02-scala-basico/dev-env-tutorial/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/home/diogo/docs/academico/2025/teaching/q2/mccc015-23-prog-func/notas-aula/code/02-scala-basico/dev-env-tutorial/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/home/diogo/docs/academico/2025/teaching/q2/mccc015-23-prog-func/notas-aula/code/02-scala-basico/dev-env-tutorial/.scala-build/ide-envs.json",
+    "/home/diogo/docs/academico/2025/teaching/q2/mccc015-23-prog-func/notas-aula/code/02-scala-basico/dev-env-tutorial"
+  ],
+  "version": "1.8.1",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
