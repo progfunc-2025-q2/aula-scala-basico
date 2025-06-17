@@ -1,4 +1,4 @@
-# Aula Básica de Scala
+# Aula: Scala - recursos básicos
 
 Este projeto contém exemplos introdutórios de programação funcional e orientada a objetos em Scala, utilizados na disciplina MCCC015 - Programação Funcional (2025, Q2).
 
